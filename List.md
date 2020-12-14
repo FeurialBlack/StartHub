@@ -6,6 +6,7 @@
 | [Clumio](https://github.com/draco-malfoy/StartHub/blob/main/Database/Clumio.md)                                                       | &check; | &check;         | Good pay, Small team, Fast Growing startup                                           |
 | [Cognizant](https://github.com/draco-malfoy/StartHub/blob/main/Database/Cognizant.md)                                                 | &check; | &check;         | Well Known, Tech Gaint                                                               |
 | [Enphase](https://github.com/draco-malfoy/StartHub/blob/main/Database/Enphase.md)                                                     | &check; | &check;         | Good Pay, Emerging company, Work-life Balance                                        |
+| [Finicity](https://github.com/draco-malfoy/StartHub/blob/main/Database/Finicity.md)                                                      | &check; | &check;         | Good Learning Experience, Average Pay, Future growth potential                       | 
 | [HackerEarth](https://github.com/draco-malfoy/StartHub/blob/main/Database/HackerEarth.md)                                             | &check; | &check;         | Good Pay, Worklife Balance                                                           |
 | [HackerRank](https://github.com/draco-malfoy/StartHub/blob/main/Database/HackerRank.md)                                                         | &check; | &cross;         | Good Pay, Work Life Balance , Impressive Reimbursement Policy                                            |
 | [IBM](https://github.com/draco-malfoy/StartHub/blob/main/Database/IBM.md)                                                             | &check; | &cross;         | Good pay, Tech Gaint                                                                 |
@@ -18,3 +19,4 @@
 | [Tata Consultancy Services(TCS)](https://github.com/draco-malfoy/StartHub/blob/main/Database/Tata%20Consultancy%20Services(TCS).md) | &check; | &check;         | Well Known, Good pay                                                                 |
 | [WarnerBros](https://github.com/draco-malfoy/StartHub/blob/main/WarnerBros.md)                                                         | &cross;  | &check;      |Good pay, Public Company |
 | [Wipro](https://github.com/draco-malfoy/StartHub/blob/main/Database/Wipro.md)                                                         | &check; | &check;         | Well Known, Tech Gaint ,Large Corporation    
+
